@@ -1,0 +1,65 @@
+########################## GitHub ##########################
+
+pjdtorres
+
+email: 	Paulo.torres@ipcb.pt
+pass:	Smith2024#
+
+
+cc541-29e54 
+9c377-b3ced 
+cf68e-00403 
+7ac8d-61da9 
+c7e85-ea6db 
+40514-69412 
+338cb-afe20 
+06578-da9b0 
+5df5a-062fb 
+e8bbb-421bc 
+9c396-7c1c0 
+90ea8-0fc99 
+552f6-6ed47 
+0b7d9-b3102 
+aafdf-bd8c1 
+becf0-85721
+
+cd C:\myptdados/myptwork/SynologyDrive/Cursos_Udemy/2024udemy/esp32-ilgner-mqtt/pasta-github
+
+########################## GitHub ##########################
+
+https://github.com/pjdtorres/ilgner.git
+
+########################## GitHub ##########################
+
+git init
+
+git status
+
+git add .
+
+git commit -m "agregando archivos"
+
+git remote add origin https://github.com/pjdtorres/ilgner.git
+
+git push -u origin master
+
+########################## GitHub ##########################
+
+…or create a new repository on the command line
+echo "# my1" >> README.md
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:pjdtorres/my1.git
+
+git push https://github.com/pjdtorres/my1.git
+
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin git@github.com:pjdtorres/my1.git
+git branch -M main
+git push -u origin master
