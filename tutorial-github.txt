@@ -1,0 +1,17 @@
+########################## GitHub ##########################
+
+pjdtorres
+
+email: 	paulo.torres@ipcb.pt
+pass:	Smith2024#
+
+########################## GitHub ##########################
+
+git remote add origin https://github.com/pjdtorres/my1.git
+git branch -M main
+git push -u origin main
+
+########################## GitHub ##########################
+
+git config --global user.name pjdtorres
+git config --global user.email paulo.torres@ipcb.pt
